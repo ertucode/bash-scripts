@@ -154,7 +154,7 @@ bash_prompt() {
  local BACKGROUND_2='61'
  local TEXTEFFECT_2=$BOLD
  
- local FONT_COLOR_3=$BLACK
+ local FONT_COLOR_3='4'
  local BACKGROUND_3=$WHITE
  local TEXTEFFECT_3=$BOLD
  
